@@ -1,0 +1,17 @@
+@media all and (max-width: 670px) {
+    
+    
+    footer {
+      text-align: center;
+      width: 100%;
+    }
+    .header-right{
+        margin-right: 36px;
+    }
+    /* Tambahkan CSS untuk header-right */
+
+  
+    
+    
+    
+  }

@@ -19,49 +19,9 @@
       margin-left: 30px;
     }
     /* Tambahkan CSS untuk header-right */
-    .header-right{
-      display:none;
-    }
-    .header-right.show:active{
-      display: inline-block;
-      width: 100%;
-      height: auto;
-      margin: 10px auto;
-      line-height: 65px;
-      text-align: center;
-    }
-    /* Tambahkan CSS untuk menu-icon */
+
   
-    .menu-icon{
-      color: rgba(241, 168, 12, 0.795);
-      float: right;
-      font-size: 25px;
-      margin: 10px 0;
-      cursor: pointer;
-      display:block;
-      padding: 11px 11px;
-      margin-right: -25px;
-    }
-    .menu-icon.click span:before{
-      content: '\f00d';
-    }
-    .sidebar{
-      position: fixed;
-      overflow-y: scroll;
-      width: 100%;
-      height: auto;
-      background: #1b1b1b;
-      transition: left 0.4s ease;
-    }
-    .sidebar.show{
-      left: 0px;
-    }
     
-    .menu-icon:hover{
-      border-radius: 5px;
-      color: black;
-      background-color: rgba(241, 168, 12, 0.795);;
-    }
     
     
   }
