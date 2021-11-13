@@ -94,11 +94,11 @@ header {
     width: fit-content;
     margin-bottom: 20px;
 }
-.cont-calc p{
-    color: red;
+.cont-calc a{
+    color: darkcyan;
     font-style: italic;
-    margin: 0;
-    
+    text-decoration: none;
+    font-size: larger;
     font-weight: bolder;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
